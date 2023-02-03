@@ -1,0 +1,28 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html  {
+    font-size: 20px;
+}
+
+body {
+    background-color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    padding: 8em 4em;
+}
+
+
+h1 {
+    font-size: 2.2rem;
+}
+
+p {
+    padding-block: 2em;
+}
